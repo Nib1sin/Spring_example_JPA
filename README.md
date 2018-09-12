@@ -1,3 +1,3 @@
 #Spring Core - Spring MVC
 
-You can learn more about this course [here](http://courses.springframework.guru/courses/spring-core/).
+Aprende mas sobre este curso con John Thonsom [here](http://courses.springframework.guru/courses/spring-core/).
